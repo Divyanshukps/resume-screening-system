@@ -1,5 +1,0 @@
-Data Analyst
-
-We are looking for a Data Analyst with strong Python and SQL skills. You will clean and analyze data, build dashboards in Power BI or Tableau, and present insights to stakeholders.
-
-Requirements: Python, pandas, NumPy, SQL, data visualization, statistics, Excel, communication skills. Machine learning basics and Flask are a plus.
